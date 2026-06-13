@@ -1,0 +1,6 @@
+{
+  "name": "تغییر چهره هوش مصنوعی",
+  "description": "اپلیکیشن هوشمند تغییر و ویرایش چهره با افکت‌های پیری، کودکی، کچل، تغییر جنسیت، انیمه و فانتزی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
